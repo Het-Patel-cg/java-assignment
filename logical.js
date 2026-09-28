@@ -88,3 +88,4 @@ let d2 = null;
 let e2 = 42;
 let resultOr = a2 || b2 || c2 || d2 || e2;
 console.log(resultOr);
+
